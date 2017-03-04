@@ -1,0 +1,800 @@
+Confirm OK
+Confirm absolument
+Confirm ah oui ça c est bien ça comme ça
+Confirm aller
+Confirm allez c est bon pour $TIME$
+Confirm alors ça c est bien
+Confirm bah oui voila
+Confirm ben oui si il y a que ça
+Confirm bon bah oui
+Confirm bon d accord
+Confirm c est entendu
+Confirm c est mieux
+Confirm entendu
+Confirm il est très bien
+Confirm iphone c est très bien
+Confirm j ai confiance
+Confirm je le confirme je vous remercie au revoir
+Confirm je suis disponible
+Confirm moi je confirme
+Confirm moi je confirme c est parfait merci beaucoup
+Confirm non c est bien
+Confirm ok ben oui ça ira
+Confirm on fait comme ça
+Confirm ouais
+Confirm ouais c est pas mal ça
+Confirm ouais ce serait parfait
+Confirm ouais ouais on va faire comme ça
+Confirm ouais ça c est parfait
+Confirm ouais ça c est très bien
+Confirm ouais ça serait parfait
+Confirm oui ben ça c est très très bien
+Confirm oui c est okay
+Confirm oui c est parfait je vous remercie
+Confirm oui ce serait parfait
+Confirm oui ce serait possible
+Confirm oui dès que possible
+Confirm oui j ai entendu
+Confirm oui j ai entendu à midi
+Confirm oui j ai entendu à midi et demi
+Confirm oui j ai très bien
+Confirm oui je préfère fais là
+Confirm oui merci
+Confirm oui merci bonne journée
+Confirm oui oui oui c est très bien merci au revoir
+Confirm oui tu peux
+Confirm oui tu peux danser
+Confirm oui voilà ça c est parfait
+Confirm oui ça c est bien ça comme ça
+Confirm oui ça fait parfait
+Confirm oui ça me convient mieux
+Confirm oui ça me va c est parfait
+Confirm oui ça ça marche ça c est sûr
+Confirm parfait
+Confirm si j ai pas le choix oui ça me convient
+Confirm très bien
+Confirm voilà c est très bien ça
+Confirm voilà on y arrive
+Confirm voilà ça c est très bien
+Confirm à 15h ce serait parfait
+Confirm ça c est bien ça
+Confirm ça c est bon
+Infirm $TIME$ ah non
+Infirm $TIME$ c est beaucoup trop tôt
+Infirm $TIME$ c est pas possible
+Infirm $TIME$ c est trop tôt
+Infirm $TIME$ c est un peu tôt
+Infirm $TIME$ je ne peux pas aller
+Infirm $TIME$ je pourrai pas
+Infirm $TIME$ non
+Infirm $TIME$ non c est beaucoup trop tôt
+Infirm $TIME$ non c est pas possible
+Infirm ah non
+Infirm ah non c est je peux pas $TIME$
+Infirm ah non c est trop tôt
+Infirm ah non je peux pas justement $TIME$
+Infirm ah non je suis en vacances $TIME$
+Infirm ah non non je me suis trompé
+Infirm ah non non non non non non c est pas possible
+Infirm ah non non non pas $TIME$
+Infirm alors $TIME$ non ça va pas être possible
+Infirm avez-vous un créneau plus tard
+Infirm bon je vais préférer plus tard
+Infirm c est bien mais pe est-ce que c est plus tard aussi plus tard
+Infirm c est impossible
+Infirm c est impossible pour moi
+Infirm c est impossible pour moi $TIME$
+Infirm c est mieux est-ce que signifie plus tard
+Infirm c est pas mal mais que serait possible un peu plus tard
+Infirm c est possible plus tard
+Infirm c est un peu tôt
+Infirm c est un peu tôt ça est-ce que c est possible plus tard
+Infirm ca ne me va absolument pas du tout $TIME$
+Infirm ca ne me va pas du tout
+Infirm ca ne me va pas du tout $TIME$
+Infirm ca ne va absolument pas du tout $TIME$
+Infirm ce n est pas possible $TIME$
+Infirm en fait je peux pas $TIME$
+Infirm encore trop tôt
+Infirm encore un peu plus tard
+Infirm esprit dans le plus tard
+Infirm est ce que vous avez un autre créneau par hasard
+Infirm est-ce encore possible plus tard
+Infirm est-ce possible picard
+Infirm est-ce que j ai un créneau après
+Infirm est-ce que je à la place de plus tard
+Infirm est-ce que si plus tard
+Infirm est-ce que tu parles plus tard
+Infirm est-ce que vous aurez delaplace plus tard
+Infirm est-ce que vous avez de la place un peu plus tard
+Infirm impossible pour moi $TIME$
+Infirm j aimerais plus tard
+Infirm je ne peux absolument pas $TIME$
+Infirm je ne peux absolument pas du tout $TIME$
+Infirm je ne peux pas
+Infirm je ne peux pas du tout $TIME$
+Infirm je ne suis jamais disponible $TIME$
+Infirm je ne suis pas disponible
+Infirm je ne veux pas $TIME$
+Infirm je peux absolument pas du tout $TIME$
+Infirm je peux pas du tout
+Infirm je peux plus tard à vers
+Infirm je préfère la plus tard
+Infirm je suis occupé $TIME$
+Infirm je suis pris
+Infirm le prochain rendez-vous le plutôt possible
+Infirm mais en fait je suis pas disponible $TIME$
+Infirm ni $TIME$
+Infirm nom
+Infirm non $TIME$ c est pas
+Infirm non $TIME$ c est trop tôt
+Infirm non $TIME$ je pourrai pas
+Infirm non $TIME$ je pourrais pas
+Infirm non $TIME$ ça ne va pas être possible
+Infirm non $TIME$ ça va pas être possible
+Infirm non c est beaucoup trop tôt
+Infirm non c est encore trop tôt
+Infirm non c est férié
+Infirm non c est impossible $TIME$
+Infirm non c est impossible pour moi $TIME$
+Infirm non c est pas bon
+Infirm non c est pas la journée de $TIME$
+Infirm non ca ne me va absolument pas du tout $TIME$
+Infirm non ca ne me va pas du tout $TIME$
+Infirm non ca ne va absolument pas du tout
+Infirm non ca ne va pas du tout
+Infirm non désolé
+Infirm non en fait
+Infirm non encore plus tard
+Infirm non est-ce que tu plus tard
+Infirm non impossible pour moi $TIME$
+Infirm non impossible pour moi ni $TIME$
+Infirm non jamais $TIME$
+Infirm non je confirme pas
+Infirm non je n en ai pas envie
+Infirm non je ne confirme pas
+Infirm non je ne peux absolument pas
+Infirm non je ne peux absolument pas du tout
+Infirm non je ne peux pas du tout
+Infirm non je ne peux pas à quel est le prochain créneau
+Infirm non je ne serai pas disponible
+Infirm non je ne suis pas disponible
+Infirm non je ne suis pas disponible tout $TIME$
+Infirm non je pense
+Infirm non je peux absolument pas
+Infirm non je peux pas
+Infirm non je peux pas du tout
+Infirm non je peux pas du tout $TIME$
+Infirm non je peux passer mon horaires $TIME$
+Infirm non je préfère encore après
+Infirm non je regarde $TIME$ c est beaucoup trop tôt
+Infirm non je suis pas disponible $TIME$
+Infirm non je suis pris
+Infirm non je voudrais plus tard
+Infirm non mais j ai peur plus tard
+Infirm non mais je peux plus tôt
+Infirm non mais je peux un peu plus tard
+Infirm non non
+Infirm non non plus ça va pas être possible $TIME$
+Infirm non non puisque je ne peux pas $TIME$ c est pas possible pour moi
+Infirm non pas $TIME$
+Infirm non plait absolument pas
+Infirm non plait absolument pas du tout
+Infirm non plait absolument pas du tout $TIME$
+Infirm non plus
+Infirm non plus tard
+Infirm non plus tard cible
+Infirm non plutôt un autre jour finalement
+Infirm non y a un créneau plus tard
+Infirm non ça ne me convient pas
+Infirm non ça va pas
+Infirm oui mais avez-vous plus tard
+Infirm oui mais je préférerais un peu plus tard
+Infirm pas
+Infirm pas $TIME$
+Infirm peux-tu me plus tard
+Infirm plait absolument pas
+Infirm plait pas du tout $TIME$
+Infirm plus tard
+Infirm plus tard c est possible
+Infirm plus tard possible
+Infirm tu veux pas un peu plus tard
+Infirm un peu plus tard c est possible
+Infirm vous allez à passe plus tard
+Infirm vous avez un créneau plus tard
+Infirm vous avez un peu plus tard
+Infirm ça fait un peu tôt ça risque de la plage plus tard
+NewAppointment $TIME$ rendez-vous
+NewAppointment ajouter un rendez-vous $TIME$
+NewAppointment aller à je voudrais prendre rendez-vous pour $TIME$
+NewAppointment alors je voudrais prendre un rendez-vous avec le docteur martin pour $TIME$
+NewAppointment alors ça se serait pour prendre rendez-vous $TIME$ à la place
+NewAppointment avoir un rendez-vous $TIME$
+NewAppointment bonjour j aimerais rendez-vous $TIME$
+NewAppointment bonjour j aimerais venir à $TIME$ c est possible
+NewAppointment bonjour j appelle pour obtenir un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment bonjour j appelle pour obtenir un rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment bonjour j appelle pour prendre rendez-vous avec le docteur $TIME$
+NewAppointment bonjour j appelle pour prendre rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment bonjour j appelle pour prendre rendez-vous avec le docteur s il vous plaît
+NewAppointment bonjour j appelle pour prendre un rendez-vous
+NewAppointment bonjour j appelle pour prendre un rendez-vous avec le docteur $TIME$
+NewAppointment bonjour j appelle pour prendre un rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour j appelle pour prendre un rendez-vous pour $TIME$
+NewAppointment bonjour j appelle pour réserver un rendez-vous
+NewAppointment bonjour j appelle pour réserver un rendez-vous avec le docteur
+NewAppointment bonjour j appelle pour réserver un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment bonjour j appelle pour réserver un rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour j appelle pour réserver un rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment bonjour j appelle pour un rendez-vous
+NewAppointment bonjour j appelle pour un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment bonjour j appelle pour un rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour j appelle pour un rendez-vous pour $TIME$
+NewAppointment bonjour j attends rendez-vous supplay
+NewAppointment bonjour j aurais voulu prochain rendez-vous
+NewAppointment bonjour je dois obtenir un rendez-vous $TIME$ s il vous plaît
+NewAppointment bonjour je dois obtenir un rendez-vous s il vous plaît
+NewAppointment bonjour je dois prendre rendez-vous
+NewAppointment bonjour je dois prendre rendez-vous avec le docteur $TIME$
+NewAppointment bonjour je dois prendre rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour je dois prendre rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment bonjour je dois prendre rendez-vous avec le docteur s il vous plaît
+NewAppointment bonjour je dois prendre rendez-vous pour $TIME$ s il vous plaît
+NewAppointment bonjour je dois prendre rendez-vous s il vous plaît
+NewAppointment bonjour je dois prendre un rendez-vous $TIME$ s il vous plaît
+NewAppointment bonjour je dois prendre un rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour je dois prendre un rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment bonjour je dois prendre un rendez-vous avec le docteur s il vous plaît
+NewAppointment bonjour je dois réserver un rendez-vous
+NewAppointment bonjour je dois réserver un rendez-vous $TIME$
+NewAppointment bonjour je dois réserver un rendez-vous $TIME$ s il vous plaît
+NewAppointment bonjour je dois réserver un rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour je dois un rendez-vous pour $TIME$
+NewAppointment bonjour je veux obtenir un rendez-vous avec le docteur $TIME$
+NewAppointment bonjour je veux obtenir un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment bonjour je veux obtenir un rendez-vous avec le docteur s il vous plaît
+NewAppointment bonjour je veux prendre rendez-vous
+NewAppointment bonjour je veux prendre rendez-vous $TIME$
+NewAppointment bonjour je veux prendre rendez-vous avec le docteur
+NewAppointment bonjour je veux prendre rendez-vous avec le docteur $TIME$
+NewAppointment bonjour je veux prendre rendez-vous avec le docteur pour $TIME$
+NewAppointment bonjour je veux prendre un rendez-vous $TIME$ s il vous plaît
+NewAppointment bonjour je veux prendre un rendez-vous avec le docteur $TIME$
+NewAppointment bonjour je veux prendre un rendez-vous avec le docteur s il vous plaît
+NewAppointment bonjour je veux prendre un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment bonjour je veux réserver un rendez-vous avec le docteur
+NewAppointment bonjour je veux réserver un rendez-vous pour $TIME$
+NewAppointment bonjour je veux un rendez-vous
+NewAppointment bonjour je veux un rendez-vous $TIME$ s il vous plaît
+NewAppointment bonjour je veux un rendez-vous avec le docteur
+NewAppointment bonjour je veux un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment bonjour je veux un rendez-vous avec le docteur s il vous plaît
+NewAppointment bonjour ma petite dame rendez-vous s il vous plaît
+NewAppointment c est parce que un rendez-vous
+NewAppointment c est pour prendre rendez-vous pour $TIME$
+NewAppointment c est pour un rendez-vous
+NewAppointment c est prendre un rendez-vous
+NewAppointment c est un rendez-vous
+NewAppointment dis-moi prendre un nouveau rendez-vous
+NewAppointment dis-moi un nouveau rendez-vous
+NewAppointment donnez moi un rendez-vous
+NewAppointment donnez moi un rendez-vous avec le docteur
+NewAppointment en un nouveau rendez-vous
+NewAppointment envoie un rendez-vous
+NewAppointment essaye de prendre un rendez-vous
+NewAppointment est-ce possible d avoir un rendez-vous $TIME$
+NewAppointment est-ce possible de prendre un nouveau rendez-vous
+NewAppointment est-ce qu il serait possible de prendre un rendez-vous pour $TIME$
+NewAppointment est-ce que c est bien de prendre rendez-vous
+NewAppointment est-ce que le docteur durand est disponible
+NewAppointment est-ce que vous pouvez me proposer un rendez-vous pour $TIME$
+NewAppointment hi je suis malade je voudrais aller à rendez-vous chez le docteur durand le plus vite possible
+NewAppointment il a un rendez-vous $TIME$
+NewAppointment il c est quoi un nouveau rendez-vous
+NewAppointment il va prendre rendez-vous
+NewAppointment j ai des rendez-vous pour $TIME$
+NewAppointment j ai rendez-vous $TIME$
+NewAppointment j ai un rendez-vous $TIME$
+NewAppointment j aimerais prendre rendez-vous
+NewAppointment j aimerais prendre rendez-vous avec le docteur TIME parce que je vais à la piscine
+NewAppointment j aimerais prendre un rendez-vous $TIME$
+NewAppointment j aimerais prendre un rendez-vous au mois
+NewAppointment j aimerais prendre un rendez-vous pour
+NewAppointment j aimerais un rendez-vous
+NewAppointment j aimerais un rendez-vous avec le docteur durand
+NewAppointment j aimerais un rendez-vous avec possible
+NewAppointment j aimerais voir le docteur pour visite de contrôle $TIME$ s il vous plaît
+NewAppointment j appelle pour faire une réservation $TIME$
+NewAppointment j appelle pour obtenir un rendez-vous $TIME$ s il vous plaît
+NewAppointment j appelle pour obtenir un rendez-vous avec le docteur
+NewAppointment j appelle pour obtenir un rendez-vous avec le docteur pour $TIME$
+NewAppointment j appelle pour obtenir un rendez-vous avec le docteur s il vous plaît
+NewAppointment j appelle pour obtenir un rendez-vous oui s il vous plaît
+NewAppointment j appelle pour obtenir un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment j appelle pour prendre rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment j appelle pour prendre rendez-vous avec le docteur oui $TIME$ s il vous plaît
+NewAppointment j appelle pour prendre rendez-vous avec le docteur oui pour $TIME$ s il vous plaît
+NewAppointment j appelle pour prendre rendez-vous avec le docteur s il vous plaît
+NewAppointment j appelle pour prendre rendez-vous oui
+NewAppointment j appelle pour prendre rendez-vous oui $TIME$
+NewAppointment j appelle pour prendre rendez-vous pour $TIME$
+NewAppointment j appelle pour prendre u rendez-vous $TIME$
+NewAppointment j appelle pour prendre un rendez-vous avec le docteur
+NewAppointment j appelle pour prendre un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment j appelle pour prendre un rendez-vous avec le docteur oui $TIME$ s il vous plaît
+NewAppointment j appelle pour prendre un rendez-vous avec le docteur oui pour $TIME$
+NewAppointment j appelle pour prendre un rendez-vous avec le docteur oui s il vous plaît
+NewAppointment j appelle pour prendre un rendez-vous avec le docteur s il vous plaît
+NewAppointment j appelle pour réserver un rendez-vous $TIME$
+NewAppointment j appelle pour réserver un rendez-vous $TIME$ s il vous plaît
+NewAppointment j appelle pour réserver un rendez-vous avec le docteur $TIME$
+NewAppointment j appelle pour réserver un rendez-vous avec le docteur oui $TIME$
+NewAppointment j appelle pour réserver un rendez-vous avec le docteur oui $TIME$ s il vous plaît
+NewAppointment j appelle pour réserver un rendez-vous avec le docteur oui pour $TIME$
+NewAppointment j appelle pour réserver un rendez-vous avec le docteur oui s il vous plaît
+NewAppointment j appelle pour réserver un rendez-vous avec le docteur pour $TIME$
+NewAppointment j appelle pour réserver un rendez-vous oui pour $TIME$ s il vous plaît
+NewAppointment j appelle pour réserver un rendez-vous oui s il vous plaît
+NewAppointment j appelle pour réserver un rendez-vous pour $TIME$
+NewAppointment j appelle pour réserver un rendez-vous s il vous plaît
+NewAppointment j appelle pour savoir si vous avez de la place
+NewAppointment j appelle pour savoir si vous avez de la place $TIME$
+NewAppointment j appelle pour un rendez-vous
+NewAppointment j appelle pour un rendez-vous avec le docteur $TIME$
+NewAppointment j appelle pour un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment j appelle pour un rendez-vous avec le docteur oui $TIME$
+NewAppointment j appelle pour un rendez-vous oui $TIME$
+NewAppointment j appelle pour un rendez-vous oui $TIME$ s il vous plaît
+NewAppointment j appelle pour un rendez-vous oui s il vous plaît
+NewAppointment j appelle pour un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment j appelle pour un rendez-vous s il vous plaît
+NewAppointment j appelle pour une consultation
+NewAppointment j essaie de rendez-vous
+NewAppointment j irai prendre un nouveau rendez-vous avec le docteur
+NewAppointment je cherche un rendez-vous
+NewAppointment je demander un rendez-vous $TIME$
+NewAppointment je dois obtenir un rendez-vous
+NewAppointment je dois obtenir un rendez-vous $TIME$ s il vous plaît
+NewAppointment je dois obtenir un rendez-vous avec le docteur $TIME$
+NewAppointment je dois obtenir un rendez-vous avec le docteur oui pour $TIME$
+NewAppointment je dois obtenir un rendez-vous avec le docteur oui pour $TIME$ s il vous plaît
+NewAppointment je dois plutôt rendez-vous $TIME$ s il te plaît
+NewAppointment je dois plutôt un rendez-vous $TIME$
+NewAppointment je dois prendre rendez-vous $TIME$
+NewAppointment je dois prendre rendez-vous avec le docteur $TIME$
+NewAppointment je dois prendre rendez-vous avec le docteur oui
+NewAppointment je dois prendre rendez-vous avec le docteur oui $TIME$ s il vous plaît
+NewAppointment je dois prendre rendez-vous avec le docteur oui pour $TIME$ s il vous plaît
+NewAppointment je dois prendre rendez-vous avec le docteur pour $TIME$
+NewAppointment je dois prendre rendez-vous oui pour $TIME$ s il vous plaît
+NewAppointment je dois prendre rendez-vous s il vous plaît
+NewAppointment je dois prendre un rendez-vous $TIME$ s il vous plaît
+NewAppointment je dois prendre un rendez-vous avec le docteur
+NewAppointment je dois prendre un rendez-vous avec le docteur oui pour $TIME$
+NewAppointment je dois prendre un rendez-vous oui
+NewAppointment je dois prendre un rendez-vous pour $TIME$ c est possible
+NewAppointment je dois réserver un rendez-vous
+NewAppointment je dois réserver un rendez-vous $TIME$
+NewAppointment je dois réserver un rendez-vous avec le docteur oui $TIME$
+NewAppointment je dois réserver un rendez-vous avec le docteur oui $TIME$ s il vous plaît
+NewAppointment je dois réserver un rendez-vous avec le docteur pour $TIME$
+NewAppointment je dois réserver un rendez-vous oui pour $TIME$ s il vous plaît
+NewAppointment je dois réserver un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment je dois réserver un rendez-vous s il vous plaît
+NewAppointment je dois savoir si vous avez de la place avec le docteur
+NewAppointment je dois savoir si vous avez de la place avec le docteur $TIME$
+NewAppointment je dois savoir si vous avez de la place avec le docteur $TIME$ s il vous plaît
+NewAppointment je dois savoir si vous avez de la place avec le docteur s il vous plaît
+NewAppointment je dois un rendez-vous avec le docteur
+NewAppointment je dois un rendez-vous avec le docteur $TIME$
+NewAppointment je dois un rendez-vous avec le docteur oui pour $TIME$
+NewAppointment je dois un rendez-vous avec le docteur oui pour $TIME$ s il vous plaît
+NewAppointment je dois un rendez-vous avec le docteur s il vous plaît
+NewAppointment je dois un rendez-vous oui $TIME$ s il vous plaît
+NewAppointment je dois venir au cabinet $TIME$
+NewAppointment je dois venir voir le docteur
+NewAppointment je dois voir le docteur $TIME$
+NewAppointment je dois voir un médecin $TIME$
+NewAppointment je m appelle un nouveau rendez-vous
+NewAppointment je me prendre un nouveau rendez-vous
+NewAppointment je ne sais pas rendez-vous
+NewAppointment je ne sais pas un nouveau rendez-vous pour $TIME$ s il vous plaît
+NewAppointment je prends rendez-vous
+NewAppointment je prends un nouveau rendez-vous
+NewAppointment je reprend nouveau rendez-vous
+NewAppointment je reprends un nouveau rendez-vous
+NewAppointment je sais pas rendez-vous $TIME$
+NewAppointment je sais prends rendez-vous pour $TIME$
+NewAppointment je se trouve un rendez-vous $TIME$
+NewAppointment je souhaitais rendez-vous
+NewAppointment je souhaitais rendez-vous pour $TIME$
+NewAppointment je souhaite prendre rendez-vous avec le secrétariat
+NewAppointment je souhaite prendre rendez-vous chez
+NewAppointment je souhaite prendre rendez-vous ou plus tôt
+NewAppointment je souhaite prendre rendez-vous ou plutôt
+NewAppointment je souhaite prendre rendez-vous s il te plaît
+NewAppointment je souhaite prendre un rendez-vous $TIME$ plaît
+NewAppointment je souhaite prendre un rendez-vous ou plus tôt
+NewAppointment je souhaite un rendez-vous au mois de
+NewAppointment je souhaite à rendez-vous
+NewAppointment je souhaiterais prendre un rendez-vous avec le docteur durand
+NewAppointment je souhaiterais prendre un rendez-vous pour une échographie
+NewAppointment je suis pas un nouveau rendez-vous $TIME$
+NewAppointment je suis saoule prendre rendez-vous
+NewAppointment je te souhaite un rendez-vous
+NewAppointment je vais demander un rendez-vous pour $TIME$
+NewAppointment je vais prendre rendez-vous
+NewAppointment je vais prendre rendez-vous avec le docteur durand
+NewAppointment je vais prendre un rendez-vous $TIME$
+NewAppointment je vais voir le docteur
+NewAppointment je veux c est une urgence je viens de voir le docteur $TIME$
+NewAppointment je veux faire une réservation $TIME$
+NewAppointment je veux obtenir un rendez-vous $TIME$ s il vous plaît
+NewAppointment je veux obtenir un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment je veux obtenir un rendez-vous avec le docteur oui
+NewAppointment je veux obtenir un rendez-vous avec le docteur oui $TIME$
+NewAppointment je veux obtenir un rendez-vous avec le docteur pour $TIME$
+NewAppointment je veux obtenir un rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment je veux obtenir un rendez-vous oui $TIME$
+NewAppointment je veux obtenir un rendez-vous oui pour $TIME$
+NewAppointment je veux obtenir un rendez-vous s il vous plaît
+NewAppointment je veux prendre rendez-vous avec le docteur $TIME$
+NewAppointment je veux prendre rendez-vous oui pour $TIME$ s il vous plaît
+NewAppointment je veux prendre u rendez-vous
+NewAppointment je veux prendre u rendez-vous $TIME$
+NewAppointment je veux prendre un rendez-vous avec le docteur $TIME$
+NewAppointment je veux prendre un rendez-vous avec le docteur oui
+NewAppointment je veux prendre un rendez-vous avec le docteur oui $TIME$ s il vous plaît
+NewAppointment je veux prendre un rendez-vous avec le docteur oui pour $TIME$
+NewAppointment je veux prendre un rendez-vous oui pour $TIME$ s il vous plaît
+NewAppointment je veux prendre un rendez-vous oui s il vous plaît
+NewAppointment je veux prendre un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment je veux réserver un rendez-vous $TIME$
+NewAppointment je veux réserver un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment je veux réserver un rendez-vous avec le docteur oui $TIME$
+NewAppointment je veux réserver un rendez-vous oui
+NewAppointment je veux savoir si vous avez de la place
+NewAppointment je veux savoir si vous avez de la place avec le docteur $TIME$
+NewAppointment je veux savoir si vous avez de la place avec le docteur $TIME$ s il vous plaît
+NewAppointment je veux savoir si vous avez de la place avec le docteur s il vous plaît
+NewAppointment je veux un rendez-vous $TIME$
+NewAppointment je veux un rendez-vous avec le docteur $TIME$
+NewAppointment je veux un rendez-vous avec le docteur oui
+NewAppointment je veux un rendez-vous avec le docteur oui pour $TIME$ s il vous plaît
+NewAppointment je veux un rendez-vous oui
+NewAppointment je veux un rendez-vous oui $TIME$ s il vous plaît
+NewAppointment je veux un rendez-vous oui pour $TIME$
+NewAppointment je veux un rendez-vous s il vous plaît
+NewAppointment je veux venir au cabinet $TIME$
+NewAppointment je veux voir le doc à
+NewAppointment je voudrais la place un rendez-vous $TIME$
+NewAppointment je voudrais parler à nouveau rendez-vous
+NewAppointment je voudrais prendre rendez-vous avec le docteur durand
+NewAppointment je voudrais prendre rendez-vous avec le docteur durand pour $TIME$
+NewAppointment je voudrais prendre rendez-vous pour $TIME$ est-ce que c est possible
+NewAppointment je voudrais prendre un nouveau rendez-vous madame
+NewAppointment je voudrais prendre un rendez-vous le plus vite possible
+NewAppointment je voudrais prendre un rendez-vous pour $TIME$ avec le docteur durand
+NewAppointment je voudrais prendre un rendez-vous pour $TIME$ c est possible
+NewAppointment je voudrais prendre un rendez-vous pour $TIME$ dans les prochains
+NewAppointment je voudrais réserver une consultation pour $TIME$
+NewAppointment je voudrais un rendez vous pour $TIME$
+NewAppointment je voudrais voir monsieur durand
+NewAppointment je vous appelle parce que je souhaiterais prendre un rendez-vous
+NewAppointment je vous la prendre un nouveau rendez-vous
+NewAppointment je vous prends le nouveau rendez-vous
+NewAppointment jouons à nouveau rendez-vous
+NewAppointment le docteur durand j aimerais voir $TIME$
+NewAppointment le docteur m a demandé d obtenir un rendez-vous
+NewAppointment le docteur m a demandé de revenir au cabinet $TIME$
+NewAppointment le docteur m a demandé de revenir la voir
+NewAppointment le docteur m a demandé de réserver un rendez-vous
+NewAppointment le docteur m a demandé de réserver un rendez-vous $TIME$
+NewAppointment le docteur m a demandé de venir au cabinet
+NewAppointment le docteur m a demandé de venir la voir
+NewAppointment le docteur m a demandé de venir le voir $TIME$
+NewAppointment madame je voudrais un rendez-vous $TIME$
+NewAppointment mon amour je dois prendre un rendez-vous
+NewAppointment non je veux un rendez vous pour $TIME$ c est possible
+NewAppointment nouveau rendez-vous s il te plaît
+NewAppointment nouveau rendez-vous sur place
+NewAppointment nouveau rendez-vous te plaît
+NewAppointment okay rendez-vous
+NewAppointment ouais je voudrais un rendez-vous $TIME$ si vous avez une classe
+NewAppointment ouais un rendez-vous
+NewAppointment oui bonjour j aimerais prendre rendez-vous avec le docteur TIME parce que je vais à la
+NewAppointment oui bonjour j aimerais prendre rendez-vous avec le docteur TIME parce que je vais à la piscine
+NewAppointment oui bonjour j aimerais prendre rendez-vous avec le docteur parce que je vais à la
+NewAppointment oui bonjour j aimerais prendre rendez-vous avec le docteur parce que je vais à la piscine
+NewAppointment oui bonjour j appelle pour obtenir un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour obtenir un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour obtenir un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour j appelle pour obtenir un rendez-vous avec le docteur s il vous plaît
+NewAppointment oui bonjour j appelle pour obtenir un rendez-vous pour $TIME$
+NewAppointment oui bonjour j appelle pour prendre rendez-vous
+NewAppointment oui bonjour j appelle pour prendre rendez-vous $TIME$
+NewAppointment oui bonjour j appelle pour prendre rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour prendre rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour j appelle pour prendre un rendez-vous
+NewAppointment oui bonjour j appelle pour prendre un rendez-vous $TIME$
+NewAppointment oui bonjour j appelle pour prendre un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour prendre un rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour réserver un rendez-vous avec le docteur $TIME$
+NewAppointment oui bonjour j appelle pour réserver un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour réserver un rendez-vous s il vous plaît
+NewAppointment oui bonjour j appelle pour un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour j appelle pour un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour j appelle pour un rendez-vous s il vous plaît
+NewAppointment oui bonjour jacques prendre rendez-vous avec le docteur TIME
+NewAppointment oui bonjour je dois obtenir un rendez-vous
+NewAppointment oui bonjour je dois obtenir un rendez-vous $TIME$
+NewAppointment oui bonjour je dois obtenir un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois obtenir un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour je dois obtenir un rendez-vous avec le docteur s il vous plaît
+NewAppointment oui bonjour je dois obtenir un rendez-vous s il vous plaît
+NewAppointment oui bonjour je dois prendre rendez-vous
+NewAppointment oui bonjour je dois prendre rendez-vous avec le docteur
+NewAppointment oui bonjour je dois prendre rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois prendre rendez-vous avec le docteur s il vous plaît
+NewAppointment oui bonjour je dois prendre rendez-vous pour $TIME$
+NewAppointment oui bonjour je dois prendre rendez-vous s il vous plaît
+NewAppointment oui bonjour je dois prendre un rendez-vous $TIME$
+NewAppointment oui bonjour je dois prendre un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois prendre un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois prendre un rendez-vous pour $TIME$
+NewAppointment oui bonjour je dois prendre un rendez-vous s il vous plaît
+NewAppointment oui bonjour je dois réserver un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois réserver un rendez-vous avec le docteur $TIME$
+NewAppointment oui bonjour je dois réserver un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois réserver un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour je dois réserver un rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois réserver un rendez-vous s il vous plaît
+NewAppointment oui bonjour je dois un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour je dois un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux obtenir un rendez-vous
+NewAppointment oui bonjour je veux obtenir un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux obtenir un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux prendre rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux prendre rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour je veux prendre rendez-vous avec le docteur pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux prendre rendez-vous pour $TIME$
+NewAppointment oui bonjour je veux prendre un rendez-vous $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux prendre un rendez-vous avec le docteur
+NewAppointment oui bonjour je veux prendre un rendez-vous avec le docteur $TIME$
+NewAppointment oui bonjour je veux prendre un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour je veux réserver un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour je veux réserver un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux un rendez-vous
+NewAppointment oui bonjour je veux un rendez-vous avec le docteur $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux un rendez-vous avec le docteur pour $TIME$
+NewAppointment oui bonjour je veux un rendez-vous pour $TIME$ s il vous plaît
+NewAppointment oui bonjour je veux un rendez-vous s il vous plaît
+NewAppointment oui bonjour madame je dois venir $TIME$ s il vous plaît
+NewAppointment oui c est pas un rendez-vous
+NewAppointment oui en prendre un nouveau rendez-vous
+NewAppointment oui hein je m appelle pour un rendez-vous je dois venir
+NewAppointment oui j ai encore nouveau rendez-vous
+NewAppointment oui j ai enfin mon rendez-vous de s il te plaît
+NewAppointment oui j ai très mal au dos je veux prendre un rendez-vous avec le médecin
+NewAppointment oui j aimerais prendre nouveau rendez-vous
+NewAppointment oui j aimerais venir $TIME$
+NewAppointment oui j appelle pour prendre un rendez-vous pour une consultation
+NewAppointment oui j aurais aimé venir $TIME$
+NewAppointment oui je sais pas rendez-vous $TIME$ s il te plaît
+NewAppointment oui je souhaite prendre un rendez-vous en
+NewAppointment oui je souhaite un nouveau rendez-vous $TIME$
+NewAppointment oui je souhaiterais prendre un nouveau rendez-vous
+NewAppointment oui je suis malade je voudrais prendre un rendez-vous avec le docteur durand pour $TIME$
+NewAppointment oui je vais prendre rendez-vous pour $TIME$
+NewAppointment oui je vais prendre rendez-vous s il te plaît
+NewAppointment oui je vais prendre un rendez-vous pour $TIME$
+NewAppointment oui je vais être un rendez-vous
+NewAppointment oui je voudrais prendre un nouveau rendez-vous pour $TIME$
+NewAppointment oui je vous appelle car j aimerai prendre rendez-vous
+NewAppointment oui je vous appelle pour prendre un rendez-vous pour une consultation
+NewAppointment oui un nouveau rendez-vous
+NewAppointment prendre rendez-vous avec le docteur $TIME$
+NewAppointment prendre rendez-vous s il te plaît
+NewAppointment prendre un nouveau rendez-vous
+NewAppointment prendre un rendez-vous
+NewAppointment prendre un rendez-vous pour $TIME$
+NewAppointment prends un nouveau rendez-vous super
+NewAppointment qu est-ce qu un nouveau rendez-vous
+NewAppointment rendez-vous avec docteur durand s il vous plaît
+NewAppointment rendez-vous dès que possible
+NewAppointment rendez-vous mais pour $NUMBER$ personnes
+NewAppointment rendez-vous sur place
+NewAppointment répondre à nouveau rendez-vous
+NewAppointment réservez moi un rendez-vous avec le docteur
+NewAppointment réservez moi un rendez-vous avec le docteur $TIME$
+NewAppointment tu me prendra nouveau rendez-vous
+NewAppointment tu peux prendre un rendez-vous s il te plaît pour
+NewAppointment tu vas prendre rendez-vous
+NewAppointment vous appelle pour prendre un rendez-vous
+Propose $TIME$
+Propose $TIME$ S il vous plaît
+Propose $TIME$ avec chose
+Propose $TIME$ c est passé
+Propose $TIME$ ce serait très bien
+Propose $TIME$ il y a de la place
+Propose $TIME$ oui
+Propose $TIME$ oui c est bon
+Propose $TIME$ oui je peux
+Propose $TIME$ s il te plaît
+Propose $TIME$ seulement
+Propose $TIME$ vous avez quoi
+Propose $TIME$ ça m arrangerait
+Propose a-t-il une possibilité $TIME$
+Propose accessible $TIME$
+Propose ah mais je peux $TIME$
+Propose ah non attendez est-ce que vous avez de la place $TIME$
+Propose ah non je pensais plutôt à $TIME$ s il vous plaît
+Propose annonce de la place $TIME$
+Propose attendez est-ce que c est possible $TIME$
+Propose attendez oui $TIME$ c est bien
+Propose auriez-vous de la place dans $TIME$
+Propose autant pour moi $TIME$
+Propose avec nous à la place $TIME$
+Propose avez-vous d autres créneaux $TIME$
+Propose avez-vous de la place en $TIME$
+Propose avez-vous une place $TIME$
+Propose avez-vous une place après $TIME$
+Propose avez-vous une place à $TIME$
+Propose besoin d un rendez-vous $TIME$ si possible
+Propose bon $TIME$ c est bien
+Propose bonjour euh j aimerais venir $TIME$ s il vous plait
+Propose bonjour j aimerais venir $TIME$ s il vous plait
+Propose c est possible ou pas $TIME$
+Propose c est possible plutôt $TIME$
+Propose c est trop tôt je voudrai $TIME$
+Propose c est trop tôt mais pour $TIME$
+Propose ce que $TIME$
+Propose dans ce cas là je reviens sur $TIME$
+Propose de $TIME$ c est possible
+Propose demander à un rendez-vous pour $TIME$
+Propose dis-moi que $TIME$
+Propose donne-moi un truc $TIME$
+Propose du $TIME$
+Propose encore une fois c est possible $TIME$
+Propose enfaite dis $TIME$
+Propose enfaite je préfère $TIME$
+Propose envoyez-moi plutôt un créneau $TIME$
+Propose est-ce possible plutôt $TIME$
+Propose est-ce qu il ya de la place $TIME$
+Propose est-ce que c est possible $TIME$
+Propose est-ce que c est possible en $TIME$
+Propose est-ce que de la place $TIME$
+Propose est-ce que j ai la place $TIME$
+Propose est-ce que j ai la place au mois d $TIME$
+Propose est-ce que j aurai la place idéalement $TIME$
+Propose est-ce que j avais de la place $TIME$
+Propose est-ce que je vais à la place $TIME$
+Propose est-ce que je veux la place $TIME$
+Propose est-ce que la glace plutôt vers $TIME$
+Propose est-ce que tu as du $TIME$
+Propose est-ce que vers la place $TIME$
+Propose est-ce que vous allez créneau $TIME$
+Propose est-ce que vous allez faire $TIME$ plutôt
+Propose est-ce que vous avez de la place $TIME$
+Propose est-ce que vous avez ta place $TIME$
+Propose est-ce que vous est la place en $TIME$
+Propose est-ce que vous la place à $TIME$
+Propose est-ce que vous êtes la place $TIME$
+Propose est-ce que vous êtes là $TIME$
+Propose est-ce que vous êtes à place $TIME$
+Propose est-ce que ça serait possible $TIME$
+Propose et $TIME$
+Propose finalement est-ce possible en $TIME$
+Propose il $TIME$ c est possible
+Propose il faut que ça soit $TIME$
+Propose il y a de la place $TIME$
+Propose j ai la place $TIME$
+Propose j ai pas la place $TIME$
+Propose j aurais préféré venir $TIME$
+Propose je demande de la place $TIME$
+Propose je dois plutôt la $TIME$
+Propose je mais je peux $TIME$
+Propose je ne peux que $TIME$
+Propose je ne suis disponible que $TIME$
+Propose je passerai $TIME$
+Propose je pensais plutôt à rendez-vous $TIME$
+Propose je peux $TIME$ est-ce que vous avez de la place
+Propose je peux $TIME$ s il te plaît
+Propose je peux aller à place à $TIME$
+Propose je peux faire $TIME$
+Propose je peux que $TIME$
+Propose je pourrais plutôt $TIME$
+Propose je pourrais que $TIME$
+Propose je préfère $TIME$
+Propose je préfère je je préfère $TIME$ vous avez de la place
+Propose je préfère venir $TIME$ si vous avez une place
+Propose je préférais $TIME$
+Propose je préférerais $TIME$
+Propose je préférerais un $TIME$
+Propose je serai disponible toute $TIME$
+Propose je sors du travail $TIME$
+Propose je souhaite $TIME$ ce
+Propose je souhaiterai $TIME$
+Propose je souhaiterais venir $TIME$
+Propose je suis disponible $TIME$
+Propose je suis disponible qu à partir du mois d $TIME$
+Propose je suis pas partir du $TIME$
+Propose je suis plutôt disponible $TIME$
+Propose je suis à la place $TIME$
+Propose je t ai dit $TIME$
+Propose je te le souhaite $TIME$
+Propose je vais prendre un rendez-vous pour $TIME$ s il vous plaît
+Propose je vais à la place autour $TIME$
+Propose je voudrai la passe $TIME$
+Propose je voudrais avoir de la place pour $TIME$
+Propose je voudrais de la place $TIME$
+Propose je voudrais la place $TIME$ plutôt
+Propose je voudrais la place plutôt $TIME$
+Propose je voudrais la place pour $TIME$
+Propose je voudrais partir de $TIME$
+Propose je voulais dire $TIME$
+Propose je vous ai dit $TIME$
+Propose je vous la passe $TIME$
+Propose je vous la place $TIME$
+Propose la place $TIME$
+Propose mais j ai peur $TIME$
+Propose mais je dois partir de $TIME$
+Propose mais je peux en $TIME$
+Propose moi je ne veux que les $TIME$
+Propose moi je vous demandais $TIME$
+Propose nan est-ce que vous avez mal $TIME$
+Propose non je prendre $TIME$
+Propose non je préférerai venir $TIME$
+Propose non je vais prendre $TIME$
+Propose okay pour
+Propose on $TIME$
+Propose par contre je suis libre $TIME$
+Propose par contre si c est possible $TIME$
+Propose plutôt $TIME$
+Propose plutôt $TIME$ je voulais
+Propose proposez-moi plutôt un créneau $TIME$
+Propose préfère $TIME$
+Propose qu est-ce qui a de la place pour $TIME$
+Propose quand je passerai plutôt $TIME$ s il vous plaît
+Propose que c est possible plutôt vers $TIME$
+Propose que se passe-t-il $TIME$
+Propose quel créneau avez-vous $TIME$
+Propose quelle est la place $TIME$ plutôt
+Propose quels sont les créneaux disponibles $TIME$
+Propose quels sont vos créneaux $TIME$
+Propose serait-ce possible $TIME$
+Propose seulement à partir de $TIME$
+Propose si c est possible je préférerais plutôt $TIME$
+Propose te $TIME$ s il vous plaît
+Propose tu n as pas $TIME$
+Propose un rendez-vous pour $TIME$
+Propose uniquement $TIME$
+Propose va revenir au $TIME$
+Propose vous avez de la place de $TIME$
+Propose vous avez la place $TIME$
+Propose vous la place $TIME$
+Propose vous plaît pour $TIME$
+Propose vous êtes ouvert $TIME$
+Propose y a de la place $TIME$
+Propose à $TIME$ c est possible ou pas
+Propose à la place $TIME$
+Propose ça me convient pas
+Propose ça serait plutôt $TIME$
+Transfer je veux parler à quelqu un
+Transfer je veux parler à quelqu un de compétent
+Transfer je veux parler à un serveur
+Transfer je veux pas parler à un robot
+Transfer je veux être transféré
+Transfer passe moi un humain
+Transfer passez moi un humain
+Transfer passez moi un serveur
+Transfer transférez-moi à quelqu un
+Transfer transférez-moi à quelqu un de compétent
+Transfer transférez-moi à un humain de compétent
+Transfer transférez-moi à une secrétaire
+Transfer vous comprenez absolument rien
+Transfer vous ne comprenez vraiment rien
+Transfer vous pouvez me passer un secrétaire
+Transfer vous servez vraiment à rien
+Transfer vous servez à rien
+Transfer être mis en relation avec un secrétariat
